@@ -6,5 +6,9 @@ I collect a lot of info about AWS, through newsletters, reading, blogs, etc. A l
 OneNote documents that I can't find, bookmarks that I never look at etc. This is an attempt to try and organise it into something resembling a repository of information
 for both my personal but also the broader community's use.
 
-# Sections
+# Governance
 [Basic Cost Control](governance/costs/BASIC.md)
+
+# Tools
+## Diagrams
+[Diagrams as Code - Mingrammer Diagrams](https://diagrams.mingrammer.com/)
